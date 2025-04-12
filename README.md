@@ -9,4 +9,4 @@ ROS workspace for simulating the arm autonomously typing on the keyboard
 
 ### cmake_arm_urdf:
 To view the arm in Rviz with sliders to control the joints, run `ros2 launch display.launch.py`.\
-To view the arm in Gazebo, run `ros2 launch gazebo_launch.py`.
+To view the arm in Gazebo, run `ros2 launch gazebo_load.launch.py`.
